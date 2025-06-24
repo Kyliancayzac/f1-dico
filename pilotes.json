@@ -1,0 +1,24 @@
+
+[
+  {
+    "nom": "Lewis Hamilton",
+    "equipe": "Mercedes",
+    "nationalite": "Britannique",
+    "titres": 7,
+    "image": "images/hamilton.jpg"
+  },
+  {
+    "nom": "Max Verstappen",
+    "equipe": "Red Bull Racing",
+    "nationalite": "Néerlandais",
+    "titres": 3,
+    "image": "images/verstappen.jpg"
+  },
+  {
+    "nom": "Charles Leclerc",
+    "equipe": "Ferrari",
+    "nationalite": "Monégasque",
+    "titres": 0,
+    "image": "images/leclerc.jpg"
+  }
+]
